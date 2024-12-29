@@ -1,0 +1,588 @@
+City,MiLB Team(s),AAA,AA,A,State,City Population Estimate,Metropolitan Area,Metropolitan Population Estimate,Median Household Income (City),NFL Team(s),MLB Team(s),NBA Team(s),NHL Team(s),NFL Count,MLB Count,NBA Count,NHL Count,MLS Count,MLS team(s),total_Pro_league
+Buffalo,Buffalo Bisons,1.0,0.0,0.0,New York,258066.0,"Buffalo-Cheektowaga, NY",1125637.0,39677.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Charlotte,Charlotte Knights,1.0,0.0,0.0,North Carolina,827121.0,"Charlotte-Concord-Gastonia, NC-SC",2728933.0,65359.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Columbus,Columbus Clippers,1.0,0.0,0.0,Ohio,849067.0,"Columbus, OH",2138926.0,54902.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Columbus Crew SC,1.0
+Columbus,Columbus Clingstones,0.0,1.0,0.0,Ohio,849067.0,"Columbus, OH",2138926.0,54902.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Columbus Crew SC,1.0
+Durham,Durham Bulls,1.0,0.0,0.0,North Carolina,257598.0,"Durham-Chapel Hill, NC",644367.0,65534.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lawrenceville,Gwinnett Stripers,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Indianapolis,Indianapolis Indians,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Des Moines,Iowa Cubs,1.0,0.0,0.0,Iowa,210317.0,"Des Moines-West Des Moines, IA",707915.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jacksonville,Jacksonville Jumbo Shrimp,1.0,0.0,0.0,Florida,868031.0,"Jacksonville, FL",1713240.0,73194.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Allentown,Lehigh Valley IronPigs,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Louisville,Louisville Bats,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Memphis,Memphis Redbirds,1.0,0.0,0.0,Tennessee,655760.0,"Memphis, TN-MS-AR",1346045.0,41228.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Nashville,Nashville Sounds,1.0,0.0,0.0,Tennessee,654596.0,"Nashville-Davidson--Murfreesboro--Franklin, TN",2012476.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Nashville SC,1.0
+Norfolk,Norfolk Tides,1.0,0.0,0.0,Virginia,246393.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1799674.0,51590.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Papillion,Omaha Storm Chasers,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rochester,Rochester Red Wings,1.0,0.0,0.0,Minnesota,112216.0,"Rochester, MN",226329.0,73106.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Moosic,Scranton/Wilkes-Barre RailRiders,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Minneapolis–St. Paul,St. Paul Saints,1.0,0.0,0.0,Minnesota,2906807.0,"Minneapolis–St. Paul–Bloomington, MN-WI",3712020.0,93662.0,Minnesota Vikings (Minneapolis),Minnesota Twins (Minneapolis),Minnesota Timberwolves (Minneapolis),Minnesota Wild (St. Paul),1.0,1.0,1.0,1.0,0.0,0,4.0
+Syracuse,Syracuse Mets,1.0,0.0,0.0,New York,144152.0,"Syracuse, NY",662577.0,38276.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Toledo,Toledo Mud Hens,1.0,0.0,0.0,Ohio,279778.0,"Toledo, OH",606327.0,42602.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Worcester,Worcester Red Sox,1.0,0.0,0.0,Massachusetts,184806.0,"Worcester, MA-CT",947404.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Albuquerque,Albuquerque Isotopes,1.0,0.0,0.0,New Mexico,559131.0,"Albuquerque, NM",918018.0,53936.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+El Paso,El Paso Chihuahuas,1.0,0.0,0.0,Texas,681136.0,"El Paso, TX",868859.0,48542.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Las Vegas,Las Vegas Aviators,1.0,0.0,0.0,Nevada,623769.0,"Las Vegas-Henderson-Paradise, NV",2292476.0,58713.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Oklahoma City,Oklahoma City Comets,1.0,0.0,0.0,Oklahoma,631263.0,"Oklahoma City, OK",1425375.0,55557.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Reno,Reno Aces,1.0,0.0,0.0,Nevada,241443.0,Reno Metropolitan Area,500000.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Round Rock,Round Rock Express,1.0,0.0,0.0,Texas,115839.0,"Austin-Round Rock-Georgetown, TX",2283371.0,86121.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+West Sacramento,Sacramento River Cats,1.0,0.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+South Jordan,Salt Lake Bees,1.0,0.0,0.0,Utah,66639.0,"Salt Lake City, UT",1257936.0,104597.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sugar Land,Sugar Land Space Cowboys,1.0,0.0,0.0,Texas,88129.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,123261.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tacoma,Tacoma Rainiers,1.0,0.0,0.0,Washington,207950.0,"Seattle-Tacoma-Bellevue, WA",3950212.0,75265.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Akron,Akron RubberDucks,0.0,1.0,0.0,Ohio,197553.0,"Akron, OH",703479.0,54618.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Altoona,Altoona Curve,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Binghamton,Binghamton Rumble Ponies,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bowie,Bowie Baysox,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Erie,Erie SeaWolves,0.0,1.0,0.0,Pennsylvania,99470.0,"Erie, PA",266096.0,42115.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Harrisburg,Harrisburg Senators,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hartford,Hartford Yard Goats,0.0,1.0,0.0,Connecticut,124014.0,"Hartford-East Hartford-Middletown, CT",1206836.0,36278.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Manchester,New Hampshire Fisher Cats,0.0,1.0,0.0,New Hampshire,110223.0,"Manchester-Nashua, NH",418291.0,70706.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Portland,Portland Sea Dogs,0.0,1.0,0.0,Maine,66872.0,"Portland-South Portland, ME",538500.0,61695.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Portland Timbers,1.0
+Reading,Reading Fightin Phils,0.0,1.0,0.0,Pennsylvania,87873.0,"Reading, PA",421164.0,61000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Richmond,Richmond Flying Squirrels,0.0,1.0,0.0,California,109715.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,65154.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bridgewater,Somerset Patriots,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Biloxi,Biloxi Shuckers,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Birmingham,Birmingham Barons,0.0,1.0,0.0,Alabama,214911.0,"Birmingham-Hoover, AL",1090435.0,37375.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chattanooga,Chattanooga Lookouts,0.0,1.0,0.0,Tennessee,176597.0,"Chattanooga, TN-GA MSA",550000.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Knoxville,Knoxville Smokies,0.0,1.0,0.0,Tennessee,185312.0,"Knoxville, TN",869046.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Montgomery,Montgomery Biscuits,0.0,1.0,0.0,Alabama,200586.0,"Montgomery, AL",373000.0,52000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pensacola,Pensacola Blue Wahoos,0.0,1.0,0.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Madison,Rocket City Trash Pandas,0.0,1.0,0.0,Wisconsin,248956.0,"Madison, WI",680796.0,67565.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Amarillo,Amarillo Sod Poodles,0.0,1.0,0.0,Texas,199651.0,"Amarillo, TX",268691.0,52941.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+North Little Rock,Arkansas Travelers,0.0,1.0,0.0,Arkansas,66506.0,"Little Rock-North Little Rock-Conway, AR",748031.0,47484.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Corpus Christi,Corpus Christi Hooks,0.0,1.0,0.0,Texas,324082.0,"Corpus Christi, TX",428185.0,56333.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Frisco,Frisco RoughRiders,0.0,1.0,0.0,Texas,154388.0,"Dallas-Fort Worth-Arlington, TX",7865293.0,116884.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,FC Dallas,1.0
+Midland,Midland RockHounds,0.0,1.0,0.0,Texas,132950.0,"Midland, TX",185308.0,83616.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Midland,Great Lakes Loons,0.0,0.0,1.0,Texas,132950.0,"Midland, TX",185308.0,83616.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Springdale,Northwest Arkansas Naturals,0.0,1.0,0.0,Arkansas,80454.0,"Fayetteville-Springdale-Rogers, AR",576724.0,68544.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Antonio,San Antonio Missions,0.0,1.0,0.0,Texas,1469824.0,"San Antonio-New Braunfels, TX",2601788.0,53751.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Springfield,Springfield Cardinals,0.0,1.0,0.0,Illinois,117809.0,"Springfield, IL",208877.0,55902.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tulsa,Tulsa Drillers,0.0,1.0,0.0,Oklahoma,403091.0,"Tulsa, OK",1015331.0,47650.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Wichita,Wichita Wind Surge,0.0,1.0,0.0,Kansas,389955.0,"Wichita, KS",647610.0,55056.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Beloit,Beloit Sky Carp,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cedar Rapids,Cedar Rapids Kernels,0.0,0.0,1.0,Iowa,130405.0,"Cedar Rapids, IA",276520.0,60202.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dayton,Dayton Dragons,0.0,0.0,1.0,Ohio,140597.0,"Dayton-Kettering, OH",814049.0,32540.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Wayne,Fort Wayne TinCaps,0.0,0.0,1.0,Indiana,258144.0,"Fort Wayne, IN",419453.0,54591.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Eastlake,Lake County Captains,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lansing,Lansing Lugnuts,0.0,0.0,1.0,Michigan,114110.0,"Lansing-East Lansing, MI",541297.0,42000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Peoria,Peoria Chiefs,0.0,0.0,1.0,Illinois,118661.0,"Peoria, IL",402746.0,53071.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Davenport,Quad Cities River Bandits,0.0,0.0,1.0,Iowa,102577.0,"Davenport-Moline-Rock Island, IA-IL",382268.0,52029.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+South Bend,South Bend Cubs,0.0,0.0,1.0,Indiana,103757.0,"South Bend-Mishawaka, IN-MI",323461.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Comstock Park,West Michigan Whitecaps,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Appleton,Wisconsin Timber Rattlers,0.0,0.0,1.0,Wisconsin,75255.0,"Appleton, WI",237974.0,61473.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Aberdeen,Aberdeen IronBirds,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Asheville,Asheville Tourists,0.0,0.0,1.0,North Carolina,88507.0,"Asheville, NC",469454.0,53621.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bowling Green,Bowling Green Hot Rods,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Brooklyn,Brooklyn Cyclones,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Greensboro,Greensboro Grasshoppers,0.0,0.0,1.0,North Carolina,285344.0,"Greensboro–High Point, NC",776566.0,54759.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Greenville,Greenville Drive,0.0,0.0,1.0,North Carolina,90588.0,"Greenville, NC",174263.0,42000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Spartanburg,Hub City Spartanburgers,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Wappingers Falls,Hudson Valley Renegades,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lakewood,Jersey Shore BlueClaws,0.0,0.0,1.0,Colorado,152589.0,"Denver-Aurora-Lakewood, CO",2963821.0,64100.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rome,Rome Emperors,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Wilmington,Wilmington Blue Rocks,0.0,0.0,1.0,Delaware,71957.0,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6102434.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Winston-Salem,Winston-Salem Dash,0.0,0.0,1.0,North Carolina,241232.0,"Winston-Salem, NC",679948.0,45750.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Eugene,Eugene Emeralds,0.0,0.0,1.0,Oregon,163448.0,"Eugene, OR",382067.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Everett,Everett AquaSox,0.0,0.0,1.0,Washington,108012.0,"Seattle-Tacoma-Bellevue, WA",4018598.0,62940.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hillsboro,Hillsboro Hops,0.0,0.0,1.0,Oregon,102360.0,"Portland-Vancouver-Hillsboro, OR-WA MSA",2500000.0,85000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Spokane,Spokane Indians,0.0,0.0,1.0,Washington,213267.0,"Spokane-Spokane Valley, WA",593466.0,50306.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pasco,Tri-City Dust Devils,0.0,0.0,1.0,Washington,68097.0,"Kennewick-Richland, WA",303501.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Vancouver,Vancouver Canadians,0.0,0.0,1.0,Washington,172853.0,"Portland-Vancouver-Hillsboro, OR-WA",2511612.0,61714.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+North Augusta,Augusta GreenJackets,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Zebulon,Carolina Mudcats,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Charleston,Charleston RiverDogs,0.0,0.0,1.0,South Carolina,135524.0,"Charleston-North Charleston, SC",802122.0,61000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Columbia,Columbia Fireflies,0.0,0.0,1.0,South Carolina,133393.0,"Columbia, SC",829470.0,47416.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Salisbury,Delmarva Shorebirds,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fayetteville,Fayetteville Woodpeckers,0.0,0.0,1.0,Arkansas,82832.0,"Fayetteville-Springdale-Rogers, AR",546725.0,61525.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fredericksburg,Fredericksburg Nationals,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hickory,Hickory Crawdads,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kannapolis,Kannapolis Cannon Ballers,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lynchburg,Lynchburg Hillcats,0.0,0.0,1.0,Virginia,79812.0,"Lynchburg, VA",261593.0,45387.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Myrtle Beach,Myrtle Beach Pelicans,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Salem,Salem Red Sox,0.0,0.0,1.0,Oregon,164543.0,"Salem, OR",433353.0,60722.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bradenton,Bradenton Marauders,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Clearwater,Clearwater Threshers,0.0,0.0,1.0,Florida,112979.0,"Tampa-St. Petersburg-Clearwater, FL",3194831.0,47070.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Daytona Beach,Daytona Tortugas,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dunedin,Dunedin Blue Jays,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Myers,Fort Myers Mighty Mussels,0.0,0.0,1.0,Florida,74015.0,"Cape Coral-Fort Myers, FL",787976.0,46409.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jupiter,Jupiter Hammerheads,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jupiter,Palm Beach Cardinals,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Port St. Lucie,St. Lucie Mets,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tampa,Tampa Tarpons,0.0,0.0,1.0,Florida,369028.0,"Tampa-St. Petersburg-Clearwater, FL",3175275.0,57709.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fresno,Fresno Grizzlies,0.0,0.0,1.0,California,520072.0,"Fresno, CA",1008654.0,53368.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Bernardino,Inland Empire 66ers,0.0,0.0,1.0,California,216137.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lake Elsinore,Lake Elsinore Storm,0.0,0.0,1.0,0,0.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Modesto,Modesto Nuts,0.0,0.0,1.0,California,211257.0,"Modesto, CA",550660.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rancho Cucamonga,Rancho Cucamonga Quakes,0.0,0.0,1.0,California,175232.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,95120.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Jose,San Jose Giants,0.0,0.0,1.0,California,1026919.0,"San Jose-Sunnyvale-Santa Clara, CA",1990660.0,109593.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,San Jose Earthquakes,1.0
+Stockton,Stockton Ports,0.0,0.0,1.0,California,305650.0,"Stockton-Lodi, CA",767089.0,58393.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Visalia,Visalia Rawhide,0.0,0.0,1.0,California,130094.0,"Visalia, CA MSA",480000.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Berkeley,0,0.0,0.0,0.0,California,120971.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,80912.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Britain,0,0.0,0.0,0.0,Connecticut,72809.0,"Hartford-East Hartford-Middletown, CT",1206836.0,45258.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Alexandria,0,0.0,0.0,0.0,Virginia,153511.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,89200.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Overland Park,0,0.0,0.0,0.0,Kansas,186511.0,"Kansas City, MO-KS",2192035.0,86487.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Melbourne,0,0.0,0.0,0.0,Florida,80136.0,"Palm Bay-Melbourne-Titusville, FL",601942.0,48673.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sioux Falls,0,0.0,0.0,0.0,South Dakota,171530.0,"Sioux Falls, SD",281958.0,61738.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Huntsville,0,0.0,0.0,0.0,Alabama,189114.0,"Huntsville, AL",491723.0,58203.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Turlock,0,0.0,0.0,0.0,California,72293.0,"Modesto, CA",550660.0,54682.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gainesville,0,0.0,0.0,0.0,Florida,130133.0,"Gainesville, FL",339247.0,37264.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Champaign,0,0.0,0.0,0.0,Illinois,86086.0,"Champaign-Urbana, IL",231891.0,48415.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Inglewood,0,0.0,0.0,0.0,California,111656.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,46389.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Joseph,0,0.0,0.0,0.0,Missouri,76096.0,"St. Joseph, MO-KS",127329.0,47873.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Brockton,0,0.0,0.0,0.0,Massachusetts,95314.0,"Boston-Cambridge-Newton, MA-NH",4875390.0,55140.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+North Las Vegas,0,0.0,0.0,0.0,Nevada,234793.0,"Las Vegas-Henderson-Paradise, NV",2227053.0,63276.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Escondido,0,0.0,0.0,0.0,California,151458.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,63133.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Westminster,0,0.0,0.0,0.0,Colorado,113117.0,"Denver-Aurora-Lakewood, CO",2963821.0,70603.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Irvine,0,0.0,0.0,0.0,California,256927.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,105126.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bossier City,0,0.0,0.0,0.0,Louisiana,68097.0,"Shreveport-Bossier City, LA",393406.0,46000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kendall,0,0.0,0.0,0.0,Florida,76466.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Palm Bay,0,0.0,0.0,0.0,Florida,107895.0,"Palm Bay-Melbourne-Titusville, FL",601942.0,48673.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Vacaville,0,0.0,0.0,0.0,California,96794.0,"Vallejo-Fairfield, CA",447643.0,78507.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Glen Burnie,0,0.0,0.0,0.0,Maryland,69859.0,"Baltimore-Columbia-Towson, MD",2844510.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Broomfield,0,0.0,0.0,0.0,Colorado,65065.0,"Denver-Aurora-Lakewood, CO",2963821.0,85639.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Schenectady,0,0.0,0.0,0.0,New York,65299.0,"Albany-Schenectady-Troy, NY",880381.0,45418.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pittsburgh,0,0.0,0.0,0.0,Pennsylvania,304385.0,"Pittsburgh, PA",2324743.0,50536.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bk,0,0.0,0.0,0.0,California,105314.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,80912.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rialto,0,0.0,0.0,0.0,California,103137.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,52904.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Green Bay,0,0.0,0.0,0.0,Wisconsin,105221.0,"Green Bay, WI",320050.0,54265.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Upland,0,0.0,0.0,0.0,California,76447.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,60365.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Virginia Beach,0,0.0,0.0,0.0,Virginia,452745.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1768901.0,76610.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Paul,0,0.0,0.0,0.0,Minnesota,300840.0,"Minneapolis-St. Paul-Bloomington, MN-WI",3690512.0,60205.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Nashua,0,0.0,0.0,0.0,New Hampshire,87975.0,"Boston-Cambridge-Newton, MA-NH",4875390.0,76247.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Temple,0,0.0,0.0,0.0,Texas,72297.0,"Killeen-Temple, TX",475367.0,55357.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Napa,0,0.0,0.0,0.0,California,80429.0,"Napa, CA",138019.0,87769.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Ana,0,0.0,0.0,0.0,California,335423.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,65313.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Orange,0,0.0,0.0,0.0,California,140995.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,90551.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Huntington Beach,0,0.0,0.0,0.0,California,201927.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,95046.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Brentwood,0,0.0,0.0,0.0,New York,63792.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,74127.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Rochelle,0,0.0,0.0,0.0,New York,79838.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,81311.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Beaumont,0,0.0,0.0,0.0,Texas,118110.0,"Beaumont-Port Arthur, TX",397565.0,52497.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Canton,0,0.0,0.0,0.0,Ohio,71895.0,"Canton-Massillon, OH",396025.0,47882.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Monica,0,0.0,0.0,0.0,California,93219.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,96570.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bloomington,0,0.0,0.0,0.0,Indiana,83815.0,"Bloomington, IN",170943.0,38225.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Indio,0,0.0,0.0,0.0,California,87526.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,56648.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cleveland,0,0.0,0.0,0.0,Ohio,388059.0,"Cleveland-Elyria, OH",2043493.0,31838.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Houston,0,0.0,0.0,0.0,Texas,2298628.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,52338.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Houston Dynamo,1.0
+Rock Hill,0,0.0,0.0,0.0,South Carolina,71567.0,"Charlotte-Concord-Gastonia, NC-SC",2728933.0,50444.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Newark,0,0.0,0.0,0.0,New Jersey,281913.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,37642.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Ames,0,0.0,0.0,0.0,Iowa,65052.0,"Ames, IA",126195.0,49158.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Clara,0,0.0,0.0,0.0,California,126216.0,"San Jose-Sunnyvale-Santa Clara, CA",1990660.0,126006.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Orleans,0,0.0,0.0,0.0,Louisiana,389617.0,"New Orleans-Metairie, LA",1270530.0,41604.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Warwick,0,0.0,0.0,0.0,Rhode Island,81698.0,"Providence-Warwick, RI-MA",1624578.0,65358.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Spring Hill,0,0.0,0.0,0.0,Florida,103197.0,"Tampa-St. Petersburg-Clearwater, FL",3194831.0,45468.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Oceanside,0,0.0,0.0,0.0,California,175714.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,72697.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tallahassee,0,0.0,0.0,0.0,Florida,189894.0,"Tallahassee, FL",387227.0,45734.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Paradise,0,0.0,0.0,0.0,Nevada,236946.0,"Las Vegas-Henderson-Paradise, NV",2227053.0,44676.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lynwood,0,0.0,0.0,0.0,California,72005.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,67350.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Camarillo,0,0.0,0.0,0.0,California,67623.0,"Oxnard-Thousand Oaks-Ventura, CA",846006.0,105141.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lake Forest,0,0.0,0.0,0.0,California,82497.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,117684.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Naperville,0,0.0,0.0,0.0,Illinois,147159.0,"Chicago-Naperville-Elgin, IL-IN-WI",9524968.0,125358.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Boise,0,0.0,0.0,0.0,Idaho,218280.0,"Boise City, ID",764718.0,68373.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Metairie,0,0.0,0.0,0.0,Louisiana,146458.0,"New Orleans-Metairie, LA",1270530.0,60404.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lawrence,0,0.0,0.0,0.0,Kansas,93916.0,"Lawrence, KS",125943.0,56436.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+O'Fallon,0,0.0,0.0,0.0,Missouri,85032.0,"St. Louis, MO-IL",2833853.0,94519.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hampton,0,0.0,0.0,0.0,Virginia,136454.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1768901.0,60683.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mesa,0,0.0,0.0,0.0,Arizona,471833.0,"Phoenix-Mesa-Chandler, AZ",5132546.0,68665.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bryan,0,0.0,0.0,0.0,Texas,82106.0,"Bryan-College Station, TX",273101.0,52435.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Garland,0,0.0,0.0,0.0,Texas,236836.0,"Dallas-Fort Worth-Arlington, TX",7865293.0,72020.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Flint,0,0.0,0.0,0.0,Michigan,98297.0,"Flint, MI",404472.0,28834.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waterbury,0,0.0,0.0,0.0,Connecticut,108807.0,"Waterbury, CT",111875.0,41136.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Eagan,0,0.0,0.0,0.0,Minnesota,66288.0,"Minneapolis-St. Paul-Bloomington, MN-WI",3690512.0,90515.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Smith,0,0.0,0.0,0.0,Arkansas,88195.0,"Fort Smith, AR-OK",298592.0,46889.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Carmichael,0,0.0,0.0,0.0,California,63215.0,"Sacramento-Roseville-Folsom, CA",2391173.0,68400.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Daly City,0,0.0,0.0,0.0,California,106574.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,91412.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Murrieta,0,0.0,0.0,0.0,California,109816.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,86495.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Quincy,0,0.0,0.0,0.0,Massachusetts,93629.0,"Boston-Cambridge-Newton, MA-NH",4875390.0,74701.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Boulder,0,0.0,0.0,0.0,Colorado,107342.0,"Boulder, CO",328973.0,71432.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Evanston,0,0.0,0.0,0.0,Illinois,75523.0,"Chicago-Naperville-Elgin, IL-IN-WI",9524968.0,75645.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dothan,0,0.0,0.0,0.0,Alabama,67536.0,"Dothan, AL",151039.0,56590.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Antioch,0,0.0,0.0,0.0,California,110542.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,64411.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Victorville,0,0.0,0.0,0.0,California,122236.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,58812.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Billings,0,0.0,0.0,0.0,Montana,110270.0,"Billings, MT",180385.0,63939.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sandy Springs,0,0.0,0.0,0.0,Georgia,105347.0,"Atlanta-Sandy Springs-Alpharetta, GA",6432649.0,103957.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Iowa City,0,0.0,0.0,0.0,Iowa,74227.0,"Iowa City, IA",171933.0,59876.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Largo,0,0.0,0.0,0.0,Florida,81007.0,"Tampa-St. Petersburg-Clearwater, FL",3342963.0,56266.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Shreveport,0,0.0,0.0,0.0,Louisiana,196994.0,"Shreveport-Bossier City, LA",383295.0,48486.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kalamazoo,0,0.0,0.0,0.0,Michigan,76040.0,"Kalamazoo-Portage, MI",265066.0,41774.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sandy,0,0.0,0.0,0.0,Utah,93612.0,"Salt Lake City, UT",1257936.0,97000.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Real Salt Lake,1.0
+Hoover,0,0.0,0.0,0.0,Alabama,84839.0,"Birmingham-Hoover, AL",1090435.0,92146.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fullerton,0,0.0,0.0,0.0,California,140849.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,85620.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rapid City,0,0.0,0.0,0.0,South Dakota,73568.0,"Rapid City, SD",144558.0,56363.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Newport Beach,0,0.0,0.0,0.0,California,87131.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,133849.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Palm Coast,0,0.0,0.0,0.0,Florida,82121.0,"Deltona-Daytona Beach-Ormond Beach, FL",668365.0,51208.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Albany,0,0.0,0.0,0.0,Georgia,71109.0,"Albany, GA",153768.0,38427.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jurupa Valley,0,0.0,0.0,0.0,California,100314.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,72946.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Providence,0,0.0,0.0,0.0,Rhode Island,179204.0,"Providence-Warwick, RI-MA",1624578.0,45610.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Decatur,0,0.0,0.0,0.0,Illinois,72856.0,"Decatur, IL",104009.0,45635.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Scranton,0,0.0,0.0,0.0,Pennsylvania,77112.0,"Scranton--Wilkes-Barre, PA",553885.0,41780.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Anaheim,0,0.0,0.0,0.0,California,350738.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,76154.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sunnyvale,0,0.0,0.0,0.0,California,151760.0,"San Jose-Sunnyvale-Santa Clara, CA",1990660.0,150464.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Augusta-Richmond County consolidated government,0,0.0,0.0,0.0,Georgia,196579.0,"Augusta-Richmond County, GA-SC",611000.0,43200.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Milwaukee,0,0.0,0.0,0.0,Wisconsin,600154.0,"Milwaukee-Waukesha, WI",1574731.0,43125.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Conroe,0,0.0,0.0,0.0,Texas,68592.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,65016.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Savannah,0,0.0,0.0,0.0,Georgia,145684.0,"Savannah, GA",404798.0,41093.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+German,0,0.0,0.0,0.0,Maryland,84122.0,0,0.0,0.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Costa Mesa,0,0.0,0.0,0.0,California,113186.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,89396.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Haven,0,0.0,0.0,0.0,Connecticut,130310.0,"New Haven-Milford, CT",857513.0,44507.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Westland,0,0.0,0.0,0.0,Michigan,81995.0,"Detroit-Warren-Dearborn, MI",4392041.0,50760.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waldorf,0,0.0,0.0,0.0,Maryland,75512.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,84809.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Troy,0,0.0,0.0,0.0,Michigan,83276.0,"Detroit-Warren-Dearborn, MI",4392041.0,101882.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kirkland,0,0.0,0.0,0.0,Washington,87267.0,"Seattle-Tacoma-Bellevue, WA",3950212.0,117190.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Barbara,0,0.0,0.0,0.0,California,91852.0,"Santa Maria-Santa Barbara, CA",446499.0,82545.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chino,0,0.0,0.0,0.0,California,85599.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,81711.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tucson,0,0.0,0.0,0.0,Arizona,531674.0,"Tucson, AZ",1063162.0,52049.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Joliet,0,0.0,0.0,0.0,Illinois,150025.0,"Chicago-Naperville-Elgin, IL-IN-WI",9524968.0,75420.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Moreno Valley,0,0.0,0.0,0.0,California,204181.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Elizabeth,0,0.0,0.0,0.0,New Jersey,129012.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,47407.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Wyoming,0,0.0,0.0,0.0,Michigan,75277.0,"Grand Rapids-Kentwood, MI",1081372.0,58000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Norman,0,0.0,0.0,0.0,Oklahoma,120297.0,"Oklahoma City, OK",1425375.0,60420.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waterloo,0,0.0,0.0,0.0,Iowa,68457.0,"Waterloo-Cedar Falls, IA",168676.0,48731.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Oakland,0,0.0,0.0,0.0,California,419278.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,82649.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jonesboro,0,0.0,0.0,0.0,Arkansas,73906.0,"Jonesboro, AR",133860.0,47000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mission,0,0.0,0.0,0.0,Texas,83307.0,"McAllen-Edinburg-Mission, TX",870781.0,47000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bay,0,0.0,0.0,0.0,Texas,75485.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Apple Valley,0,0.0,0.0,0.0,California,72185.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,63000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Poinciana,0,0.0,0.0,0.0,Florida,73943.0,"Orlando-Kissimmee-Sanford, FL",2608147.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Davis,0,0.0,0.0,0.0,California,67656.0,"Sacramento-Roseville-Folsom, CA",2391173.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Louis,0,0.0,0.0,0.0,Missouri,315685.0,"St. Louis, MO-IL",2833853.0,45782.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lehigh Acres,0,0.0,0.0,0.0,Florida,119480.0,"Cape Coral-Fort Myers, FL",787976.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Henderson,0,0.0,0.0,0.0,Nevada,285658.0,"Las Vegas-Henderson-Paradise, NV",2292476.0,74147.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chula Vista,0,0.0,0.0,0.0,California,265754.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,81272.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Omaha,0,0.0,0.0,0.0,Nebraska,443887.0,"Omaha-Council Bluffs, NE-IA",967604.0,60092.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Yakima,0,0.0,0.0,0.0,Washington,93700.0,"Yakima, WA",256728.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Wichita Falls,0,0.0,0.0,0.0,Texas,104709.0,"Wichita Falls, TX",151306.0,47000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Beaverton,0,0.0,0.0,0.0,Oregon,96577.0,"Portland-Vancouver-Hillsboro, OR-WA",2511612.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+El Cajon,0,0.0,0.0,0.0,California,103688.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,55309.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Union City,0,0.0,0.0,0.0,New Jersey,69149.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,47000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Flagstaff,0,0.0,0.0,0.0,Arizona,70317.0,"Flagstaff, AZ",145101.0,58748.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint George,0,0.0,0.0,0.0,Utah,80207.0,"St. George, UT",180279.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Framingham,0,0.0,0.0,0.0,Massachusetts,71210.0,"Boston-Cambridge-Newton, MA-NH",4875390.0,96300.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cape Coral,0,0.0,0.0,0.0,Florida,175230.0,"Cape Coral-Fort Myers, FL",787976.0,61599.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lee's Summit,0,0.0,0.0,0.0,Missouri,95068.0,"Kansas City, MO-KS",2192035.0,104169.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+McAllen,0,0.0,0.0,0.0,Texas,140253.0,"McAllen-Edinburg-Mission, TX",870781.0,45568.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Odessa,0,0.0,0.0,0.0,Texas,118980.0,"Odessa, TX",165993.0,63829.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Racine,0,0.0,0.0,0.0,Wisconsin,77737.0,"Racine, WI",195041.0,54210.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Carrollton,0,0.0,0.0,0.0,Texas,133146.0,"Dallas-Fort Worth-Arlington, TX",7865293.0,75757.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lafayette,0,0.0,0.0,0.0,Louisiana,127661.0,"Lafayette, LA",478384.0,52907.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gresham,0,0.0,0.0,0.0,Oregon,110582.0,"Portland-Vancouver-Hillsboro, OR-WA",2511612.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Norwalk,0,0.0,0.0,0.0,Connecticut,88483.0,"Bridgeport-Stamford-Norwalk, CT",943332.0,85769.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Roswell,0,0.0,0.0,0.0,Georgia,94496.0,"Atlanta-Sandy Springs-Alpharetta, GA",6144050.0,99726.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Menifee,0,0.0,0.0,0.0,California,87163.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,76000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Yorba Linda,0,0.0,0.0,0.0,California,67966.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,123962.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Livermore,0,0.0,0.0,0.0,California,88117.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,140000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Edmond,0,0.0,0.0,0.0,Oklahoma,90090.0,"Oklahoma City, OK",1425375.0,81473.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Charles,0,0.0,0.0,0.0,Missouri,68801.0,"St. Louis, MO-IL",2833853.0,86978.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hesperia,0,0.0,0.0,0.0,California,93286.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Baltimore,0,0.0,0.0,0.0,Maryland,621849.0,"Baltimore-Columbia-Towson, MD",2844510.0,50379.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Whittier,0,0.0,0.0,0.0,California,87436.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,77639.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+College Station,0,0.0,0.0,0.0,Texas,107899.0,"College Station-Bryan, TX",273101.0,47270.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Layton,0,0.0,0.0,0.0,Utah,74142.0,"Ogden-Clearfield, UT",700000.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Abilene,0,0.0,0.0,0.0,Texas,125876.0,"Abilene, TX",170219.0,50659.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Muncie,0,0.0,0.0,0.0,Indiana,69701.0,"Muncie, IN",114135.0,35859.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Roseville,0,0.0,0.0,0.0,California,130282.0,"Sacramento-Roseville-Folsom, CA",2391173.0,95519.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Medford,0,0.0,0.0,0.0,Oregon,79795.0,"Medford, OR",223259.0,50851.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gilbert,0,0.0,0.0,0.0,Arizona,247523.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,96857.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Spokane Valley,0,0.0,0.0,0.0,Washington,94908.0,"Spokane-Spokane Valley, WA",600292.0,74787.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waco,0,0.0,0.0,0.0,Texas,132342.0,"Waco, TX",277005.0,41819.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tempe,0,0.0,0.0,0.0,Arizona,175826.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,64730.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Concord,0,0.0,0.0,0.0,North Carolina,87693.0,"Charlotte-Concord-Gastonia, NC-SC",2701046.0,61574.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+North Charleston,0,0.0,0.0,0.0,South Carolina,111864.0,"Charleston-North Charleston, SC",802122.0,55964.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Riverview,0,0.0,0.0,0.0,Florida,89746.0,"Tampa-St. Petersburg-Clearwater, FL",3175275.0,80851.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Clemente,0,0.0,0.0,0.0,California,65532.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,123409.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Plantation,0,0.0,0.0,0.0,Florida,92555.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,72500.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Olathe,0,0.0,0.0,0.0,Kansas,134316.0,"Kansas City, MO-KS",2192035.0,94292.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Mateo,0,0.0,0.0,0.0,California,103524.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,128102.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lubbock,0,0.0,0.0,0.0,Texas,249051.0,"Lubbock, TX",322257.0,52254.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pearland,0,0.0,0.0,0.0,Texas,111665.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,104504.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Alhambra,0,0.0,0.0,0.0,California,85572.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,63360.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Renton,0,0.0,0.0,0.0,Washington,100247.0,"Seattle-Tacoma-Bellevue, WA",4018598.0,81130.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Grand Rapids,0,0.0,0.0,0.0,Michigan,195099.0,"Grand Rapids-Kentwood, MI",1081372.0,61537.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Miami,0,0.0,0.0,0.0,Florida,440989.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,44268.0,"Miami Dolphins (Miami Gardens, FL)",Miami Marlins,Miami Heat,"Florida Panthers (Sunrise, FL)",2.0,1.0,1.0,2.0,1.0,Inter Miami CF,7.0
+Bethlehem,0,0.0,0.0,0.0,Pennsylvania,74367.0,"Allentown-Bethlehem-Easton, PA-NJ",861889.0,56362.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Orlando,0,0.0,0.0,0.0,Florida,270917.0,"Orlando-Kissimmee-Sanford, FL",2608147.0,55183.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Orlando City SC,1.0
+Sacramento,0,0.0,0.0,0.0,California,490715.0,"Sacramento-Roseville-Folsom, CA",2391623.0,71047.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Washington,0,0.0,0.0,0.0,District of Columbia,672228.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,86420.0,"Washington Redskins (Landover, MD)",Washington Nationals,Washington Wizards,Washington Capitals,2.0,1.0,1.0,1.0,1.0,D.C. United,6.0
+Rancho Cordova,0,0.0,0.0,0.0,California,71026.0,"Sacramento-Roseville-Folsom, CA",2397382.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Torrance,0,0.0,0.0,0.0,California,148468.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,93492.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Trenton,0,0.0,0.0,0.0,New Jersey,84231.0,"Trenton-Princeton, NJ",367430.0,42816.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pleasanton,0,0.0,0.0,0.0,California,79519.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,156400.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Southfield,0,0.0,0.0,0.0,Michigan,73177.0,"Detroit-Warren-Dearborn, MI",4392041.0,55705.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Angelo,0,0.0,0.0,0.0,Texas,100413.0,"San Angelo, TX",120003.0,49706.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Davie,0,0.0,0.0,0.0,Florida,100894.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,66219.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Victoria,0,0.0,0.0,0.0,Texas,67581.0,"Victoria, TX",99881.0,54000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sunrise,0,0.0,0.0,0.0,Florida,92706.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,56811.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pharr,0,0.0,0.0,0.0,Texas,76535.0,"McAllen-Edinburg-Mission, TX",870781.0,43476.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Urban Honolulu,0,0.0,0.0,0.0,Hawaii,352766.0,"Urban Honolulu, HI",1016508.0,71465.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Glendale,0,0.0,0.0,0.0,Arizona,240114.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,55020.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Juan,0,0.0,0.0,0.0,Puerto Rico,342237.0,"San Juan-Carolina-Caguas, PR",2244000.0,21052.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Milpitas,0,0.0,0.0,0.0,California,77617.0,"San Jose-Sunnyvale-Santa Clara, CA",1990660.0,132960.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Missouri City,0,0.0,0.0,0.0,Texas,71778.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,90000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+High Point,0,0.0,0.0,0.0,North Carolina,109828.0,"Greensboro-High Point, NC",776566.0,47403.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kissimmee,0,0.0,0.0,0.0,Florida,69152.0,"Orlando-Kissimmee-Sanford, FL",2608147.0,41689.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hammond,0,0.0,0.0,0.0,Indiana,77610.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,42622.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Elgin,0,0.0,0.0,0.0,Illinois,111076.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,66201.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Passaic,0,0.0,0.0,0.0,New Jersey,71082.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,57832.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+East Orange,0,0.0,0.0,0.0,New Jersey,64962.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,50995.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Alameda,0,0.0,0.0,0.0,California,78614.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,96888.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Arlington Heights,0,0.0,0.0,0.0,Illinois,76996.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,81059.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+South Gate,0,0.0,0.0,0.0,California,96399.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,52321.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Ramon,0,0.0,0.0,0.0,California,76132.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,160783.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bend,0,0.0,0.0,0.0,Oregon,87017.0,"Bend, OR",197692.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Longview,0,0.0,0.0,0.0,Texas,81590.0,"Longview, TX",217481.0,47000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Ellicott City,0,0.0,0.0,0.0,Maryland,70932.0,"Baltimore-Columbia-Towson, MD",2844510.0,125000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+West Valley City,0,0.0,0.0,0.0,Utah,136224.0,"Salt Lake City, UT",1257936.0,64000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Portsmouth,0,0.0,0.0,0.0,Virginia,96201.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1799674.0,51000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mobile,0,0.0,0.0,0.0,Alabama,194305.0,"Mobile, AL",430197.0,40000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Woodbury,0,0.0,0.0,0.0,Minnesota,67850.0,"Minneapolis-St. Paul-Bloomington, MN-WI",3690512.0,108000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+League City,0,0.0,0.0,0.0,Texas,98350.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,100000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Killeen,0,0.0,0.0,0.0,Texas,140809.0,"Killeen-Temple, TX",475367.0,49000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Arvada,0,0.0,0.0,0.0,Colorado,115035.0,"Denver-Aurora-Lakewood, CO",2963821.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Folsom,0,0.0,0.0,0.0,California,76368.0,"Sacramento-Roseville-Folsom, CA",2397382.0,117000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Petersburg,0,0.0,0.0,0.0,Florida,257088.0,"Tampa-St. Petersburg-Clearwater, FL",3175275.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Flower Mound,0,0.0,0.0,0.0,Texas,71024.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,133000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Vallejo,0,0.0,0.0,0.0,California,121269.0,"Vallejo, CA",447643.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cranston,0,0.0,0.0,0.0,Rhode Island,81077.0,"Providence-Warwick, RI-MA",1624578.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Redlands,0,0.0,0.0,0.0,California,71028.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,73000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Alafaya,0,0.0,0.0,0.0,Florida,85264.0,"Orlando-Kissimmee-Sanford, FL",2673376.0,93251.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Avondale,0,0.0,0.0,0.0,Arizona,80683.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,72737.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Collins,0,0.0,0.0,0.0,Colorado,161181.0,"Fort Collins, CO",359066.0,70528.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Boca Raton,0,0.0,0.0,0.0,Florida,93226.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,80815.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Richardson,0,0.0,0.0,0.0,Texas,110827.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,87611.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Livonia,0,0.0,0.0,0.0,Michigan,94633.0,"Detroit-Warren-Dearborn, MI",4392041.0,80922.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Eau Claire,0,0.0,0.0,0.0,Wisconsin,67433.0,"Eau Claire, WI",168000.0,55241.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Aurora,0,0.0,0.0,0.0,Illinois,203715.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,77807.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Stamford,0,0.0,0.0,0.0,Connecticut,128877.0,"Bridgeport-Stamford-Norwalk, CT",943332.0,99791.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hemet,0,0.0,0.0,0.0,California,83873.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,43087.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jackson,0,0.0,0.0,0.0,Mississippi,170811.0,"Jackson, MS",594806.0,40064.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bellevue,0,0.0,0.0,0.0,Washington,139814.0,"Seattle-Tacoma-Bellevue, WA",4018598.0,140252.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hollywood,0,0.0,0.0,0.0,Florida,149721.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,57331.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Palmdale,0,0.0,0.0,0.0,California,158350.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,62865.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Thornton,0,0.0,0.0,0.0,Colorado,133459.0,"Denver-Aurora-Lakewood, CO",2963821.0,80732.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dearborn,0,0.0,0.0,0.0,Michigan,95180.0,"Detroit-Warren-Dearborn, MI",4392041.0,54656.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Riverside,0,0.0,0.0,0.0,California,322423.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,68982.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Colorado Springs,0,0.0,0.0,0.0,Colorado,456562.0,"Colorado Springs, CO",755105.0,70527.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gaithersburg,0,0.0,0.0,0.0,Maryland,67445.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,96869.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Frederick,0,0.0,0.0,0.0,Maryland,69482.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,97700.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+South San Francisco,0,0.0,0.0,0.0,California,67271.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,115000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fishers,0,0.0,0.0,0.0,Indiana,86071.0,"Indianapolis-Carmel-Anderson, IN",2111040.0,109454.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Maria,0,0.0,0.0,0.0,California,105082.0,"Santa Maria-Santa Barbara, CA",446499.0,65500.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bolingbrook,0,0.0,0.0,0.0,Illinois,72096.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,94000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+The Villages,0,0.0,0.0,0.0,Florida,72590.0,"The Villages, FL",132420.0,63841.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Oxnard,0,0.0,0.0,0.0,California,207252.0,"Oxnard-Thousand Oaks-Ventura, CA",846006.0,81972.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gastonia,0,0.0,0.0,0.0,North Carolina,74550.0,"Charlotte-Concord-Gastonia, NC-SC",2701046.0,52000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Raleigh,0,0.0,0.0,0.0,North Carolina,451949.0,"Raleigh-Cary, NC",1547000.0,76000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Casas Adobes,0,0.0,0.0,0.0,Arizona,65265.0,"Tucson, AZ",1043433.0,68000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Deltona,0,0.0,0.0,0.0,Florida,88474.0,"Deltona-Daytona Beach-Ormond Beach, FL",668365.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Braunfels,0,0.0,0.0,0.0,Texas,69923.0,"San Antonio-New Braunfels, TX",2655342.0,71000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Merced,0,0.0,0.0,0.0,California,82440.0,"Merced, CA",281202.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Salt Lake City,0,0.0,0.0,0.0,Utah,192660.0,"Salt Lake City, UT",1257936.0,68000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Yonkers,0,0.0,0.0,0.0,New York,201118.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,63000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lincoln,0,0.0,0.0,0.0,Nebraska,277346.0,"Lincoln, NE",340217.0,61000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bayonne,0,0.0,0.0,0.0,New Jersey,66303.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,62000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Homestead,0,0.0,0.0,0.0,Florida,66500.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waukegan,0,0.0,0.0,0.0,Illinois,88347.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Topeka,0,0.0,0.0,0.0,Kansas,127257.0,"Topeka, KS",232090.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Clarksville,0,0.0,0.0,0.0,Tennessee,149190.0,"Clarksville, TN-KY",307820.0,55819.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Franklin,0,0.0,0.0,0.0,Tennessee,72635.0,"Nashville-Davidson--Murfreesboro--Franklin, TN",2118233.0,98231.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Santa Fe,0,0.0,0.0,0.0,New Mexico,84112.0,"Santa Fe, NM",150358.0,57972.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Little Rock,0,0.0,0.0,0.0,Arkansas,197986.0,"Little Rock-North Little Rock-Conway, AR",748031.0,50135.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Plano,0,0.0,0.0,0.0,Texas,283619.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,96348.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Boston,0,0.0,0.0,0.0,Massachusetts,669469.0,"Boston-Cambridge-Newton, MA-NH",4941632.0,79018.0,"New England Patriots (Foxborough, MA)",Boston Red Sox,Boston Celtics,Boston Bruins,2.0,1.0,1.0,1.0,0.0,0,5.0
+Johns Creek,0,0.0,0.0,0.0,Georgia,83339.0,"Atlanta-Sandy Springs-Alpharetta, GA",6144050.0,122514.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lynn,0,0.0,0.0,0.0,Massachusetts,92459.0,"Boston-Cambridge-Newton, MA-NH",4941632.0,53513.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cambridge,0,0.0,0.0,0.0,Massachusetts,110402.0,"Boston-Cambridge-Newton, MA-NH",4941632.0,95404.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Skokie,0,0.0,0.0,0.0,Illinois,64819.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,76000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New York,0,0.0,0.0,0.0,New York,8550405.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,67046.0,"New York Giants (East Rutherford, NJ), New York Jets (East Rutherford, NJ)","New York Yankees, New York Mets","New York Knicks, Brooklyn Nets","New York Rangers, New York Islanders, New Jersey Devils (Newark, NJ)",4.0,2.0,2.0,4.0,1.0,New York City FC,13.0
+Simi Valley,0,0.0,0.0,0.0,California,126766.0,"Oxnard-Thousand Oaks-Ventura, CA",846006.0,99151.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dallas,0,0.0,0.0,0.0,Texas,1300082.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,52580.0,"Dallas Cowboys (Arlington, TX)","Texas Rangers (Arlington, TX)",Dallas Mavericks (Dallas),Dallas Stars (Dallas),2.0,2.0,1.0,1.0,0.0,0,6.0
+Baldwin Park,0,0.0,0.0,0.0,California,77056.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,62000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Laredo,0,0.0,0.0,0.0,Texas,255789.0,"Laredo, TX",276652.0,39548.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+East Los Angeles,0,0.0,0.0,0.0,California,119666.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,42000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cary,0,0.0,0.0,0.0,North Carolina,160514.0,"Raleigh-Cary, NC",1390785.0,104669.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Parma,0,0.0,0.0,0.0,Ohio,79943.0,"Cleveland-Elyria, OH",2043493.0,54000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lauderhill,0,0.0,0.0,0.0,Florida,71574.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,42000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pine Hills,0,0.0,0.0,0.0,Florida,76081.0,"Orlando-Kissimmee-Sanford, FL",2538000.0,40000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Carmel,0,0.0,0.0,0.0,Indiana,89029.0,"Indianapolis-Carmel-Anderson, IN",2111040.0,119772.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bakersfield,0,0.0,0.0,0.0,California,373627.0,"Bakersfield, CA",909235.0,63139.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bellingham,0,0.0,0.0,0.0,Washington,85143.0,"Bellingham, WA",226847.0,65467.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Saint Cloud,0,0.0,0.0,0.0,Minnesota,68253.0,"St. Cloud, MN",200000.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Delray Beach,0,0.0,0.0,0.0,Florida,66261.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,61000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Athens-Clarke County unified government,0,0.0,0.0,0.0,Georgia,122563.0,"Athens-Clarke County, GA",215000.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+West Palm Beach,0,0.0,0.0,0.0,Florida,106782.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,68000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Paterson,0,0.0,0.0,0.0,New Jersey,147757.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,41000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Clovis,0,0.0,0.0,0.0,California,104172.0,"Fresno, CA",1000918.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Seattle,0,0.0,0.0,0.0,Washington,684443.0,"Seattle-Tacoma-Bellevue, WA",4018598.0,97185.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Seattle Sounders FC,1.0
+Missoula,0,0.0,0.0,0.0,Montana,71024.0,"Missoula, MT",120000.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+West Covina,0,0.0,0.0,0.0,California,108489.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Suffolk,0,0.0,0.0,0.0,Virginia,88161.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1799674.0,76000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Newton,0,0.0,0.0,0.0,Massachusetts,88809.0,"Boston-Cambridge-Newton, MA-NH",4941632.0,151068.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hawthorne,0,0.0,0.0,0.0,California,88444.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Denver,0,0.0,0.0,0.0,Colorado,682545.0,"Denver-Aurora-Lakewood, CO",2963821.0,82000.0,Denver Broncos,Colorado Rockies,Denver Nuggets,Colorado Avalanche,1.0,1.0,1.0,1.0,0.0,0,4.0
+Provo,0,0.0,0.0,0.0,Utah,115258.0,"Provo-Orem, UT",648252.0,64000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Greeley,0,0.0,0.0,0.0,Colorado,100883.0,"Greeley, CO",333983.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Spring Valley,0,0.0,0.0,0.0,Nevada,193955.0,"Las Vegas-Henderson-Paradise, NV",2292476.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tustin,0,0.0,0.0,0.0,California,80563.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,95000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Redondo Beach,0,0.0,0.0,0.0,California,68185.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,123000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Shawnee,0,0.0,0.0,0.0,Kansas,65058.0,"Kansas City, MO-KS",2192035.0,84507.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pasadena,0,0.0,0.0,0.0,California,142246.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,83068.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Somerville,0,0.0,0.0,0.0,Massachusetts,80334.0,"Boston-Cambridge-Newton, MA-NH",4941632.0,86191.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sparks,0,0.0,0.0,0.0,Nevada,96098.0,"Reno, NV",514453.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Compton,0,0.0,0.0,0.0,California,98448.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,52883.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Buena Park,0,0.0,0.0,0.0,California,83264.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pomona,0,0.0,0.0,0.0,California,153252.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Arlington,0,0.0,0.0,0.0,Virginia,229164.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,120071.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kenosha,0,0.0,0.0,0.0,Wisconsin,99856.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,55417.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Garden Grove,0,0.0,0.0,0.0,California,175384.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,75675.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Detroit,0,0.0,0.0,0.0,Michigan,677124.0,"Detroit-Warren-Dearborn, MI",4392041.0,30894.0,Detroit Lions,Detroit Tigers,"Detroit Pistons (Auburn Hills, MI)",Detroit Red Wings,1.0,1.0,2.0,1.0,0.0,0,5.0
+Mountain View,0,0.0,0.0,0.0,California,80438.0,"San Jose-Sunnyvale-Santa Clara, CA",1990660.0,150000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Scottsdale,0,0.0,0.0,0.0,Arizona,236844.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,88213.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kenner,0,0.0,0.0,0.0,Louisiana,67106.0,"New Orleans-Metairie, LA",1270530.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Allen,0,0.0,0.0,0.0,Pennsylvania,120207.0,"Allentown-Bethlehem-Easton, PA-NJ",844052.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gulfport,0,0.0,0.0,0.0,Mississippi,71872.0,"Gulfport-Biloxi, MS",418963.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Centreville,0,0.0,0.0,0.0,Virginia,71782.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,110000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Macon,0,0.0,0.0,0.0,Georgia,153459.0,"Macon-Bibb County, GA",153671.0,41334.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kennewick,0,0.0,0.0,0.0,Washington,78903.0,"Kennewick-Richland, WA",303501.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Edinburg,0,0.0,0.0,0.0,Texas,84501.0,"McAllen-Edinburg-Mission, TX",870781.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Brandon,0,0.0,0.0,0.0,Florida,113968.0,"Tampa-St. Petersburg-Clearwater, FL",3175275.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Marysville,0,0.0,0.0,0.0,Washington,66773.0,"Seattle-Tacoma-Bellevue, WA",4018598.0,90000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Danbury,0,0.0,0.0,0.0,Connecticut,84662.0,"Bridgeport-Stamford-Norwalk, CT",943332.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Jersey City,0,0.0,0.0,0.0,New Jersey,264277.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rio Rancho,0,0.0,0.0,0.0,New Mexico,94155.0,"Albuquerque, NM",918018.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Enterprise,0,0.0,0.0,0.0,Nevada,135474.0,"Las Vegas-Henderson-Paradise, NV",2292476.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pittsburg,0,0.0,0.0,0.0,California,69427.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+New Bedford,0,0.0,0.0,0.0,Massachusetts,94959.0,"Providence-Warwick, RI-MA",1622520.0,54604.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Carlsbad,0,0.0,0.0,0.0,California,113466.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,134139.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Deerfield Beach,0,0.0,0.0,0.0,Florida,79769.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,51690.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sterling Heights,0,0.0,0.0,0.0,Michigan,132062.0,"Detroit-Warren-Dearborn, MI",4392041.0,65832.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kansas City,0,0.0,0.0,0.0,Kansas,151261.0,"Kansas City, MO-KS",2192035.0,45665.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Manteca,0,0.0,0.0,0.0,California,75450.0,"Stockton, CA",762148.0,81907.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Surprise,0,0.0,0.0,0.0,Arizona,128442.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,72962.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Florence-Graham,0,0.0,0.0,0.0,California,66359.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,37543.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Newport News,0,0.0,0.0,0.0,Virginia,182385.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1799674.0,51590.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+North Richland Hills,0,0.0,0.0,0.0,Texas,69205.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,71076.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Temecula,0,0.0,0.0,0.0,California,112026.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,96183.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Independence,0,0.0,0.0,0.0,Missouri,117255.0,"Kansas City, MO-KS",2192035.0,50210.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Baton Rouge,0,0.0,0.0,0.0,Louisiana,228596.0,"Baton Rouge, LA",873661.0,67979.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Meridian,0,0.0,0.0,0.0,Idaho,90753.0,"Boise City, ID",795268.0,75515.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Murfreesboro,0,0.0,0.0,0.0,Tennessee,126121.0,"Nashville-Davidson--Murfreesboro--Franklin, TN",2118233.0,70000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Citrus Heights,0,0.0,0.0,0.0,California,87053.0,"Sacramento-Roseville-Folsom, CA",2397382.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+McKinney,0,0.0,0.0,0.0,Texas,162887.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,100000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Atlanta,0,0.0,0.0,0.0,Georgia,463875.0,"Atlanta-Sandy Springs-Alpharetta, GA",6144050.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,Atlanta United FC,1.0
+Johnson City,0,0.0,0.0,0.0,Tennessee,65369.0,"Johnson City, TN",200000.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bridgeport,0,0.0,0.0,0.0,Connecticut,147619.0,"Bridgeport-Stamford-Norwalk, CT",943332.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tracy,0,0.0,0.0,0.0,California,87093.0,"Stockton, CA",762148.0,100000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Clifton,0,0.0,0.0,0.0,New Jersey,86341.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Orem,0,0.0,0.0,0.0,Utah,94457.0,"Provo-Orem, UT",648252.0,64000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Lauderdale,0,0.0,0.0,0.0,Florida,178587.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Warner Robins,0,0.0,0.0,0.0,Georgia,74002.0,"Warner Robins, GA",190000.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Brownsville,0,0.0,0.0,0.0,Texas,183888.0,"Brownsville-Harlingen, TX",423163.0,39000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lorain,0,0.0,0.0,0.0,Ohio,63651.0,"Cleveland-Elyria, OH",2088251.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cicero,0,0.0,0.0,0.0,Illinois,83867.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Carson,0,0.0,0.0,0.0,California,93296.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,LA Galaxy,1.0
+Atascocita,0,0.0,0.0,0.0,Texas,78240.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Denton,0,0.0,0.0,0.0,Texas,131047.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mesquite,0,0.0,0.0,0.0,Texas,145124.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Redwood City,0,0.0,0.0,0.0,California,85300.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,122274.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cedar Park,0,0.0,0.0,0.0,Texas,64837.0,"Austin-Round Rock-Georgetown, TX",2283371.0,101086.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pembroke Pines,0,0.0,0.0,0.0,Florida,166624.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,68745.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chesapeake,0,0.0,0.0,0.0,Virginia,235429.0,"Virginia Beach-Norfolk-Newport News, VA-NC",1799674.0,76000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Corona,0,0.0,0.0,0.0,California,164242.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,83000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Broken Arrow,0,0.0,0.0,0.0,Oklahoma,107595.0,"Tulsa, OK",1015331.0,73000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Long Beach,0,0.0,0.0,0.0,California,474172.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,81606.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Coral Springs,0,0.0,0.0,0.0,Florida,129502.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,68745.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mayagüez,0,0.0,0.0,0.0,Puerto Rico,66581.0,"Mayagüez, PR",195000.0,18000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Diego,0,0.0,0.0,0.0,California,1394907.0,"San Diego-Chula Vista-Carlsbad, CA",3338330.0,83000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chandler,0,0.0,0.0,0.0,Arizona,260833.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,85000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Sunrise Manor,0,0.0,0.0,0.0,Nevada,192608.0,"Las Vegas-Henderson-Paradise, NV",2292476.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Longmont,0,0.0,0.0,0.0,Colorado,92221.0,"Boulder, CO",330758.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Arden-Arcade,0,0.0,0.0,0.0,California,96276.0,"Sacramento-Roseville-Folsom, CA",2397382.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Anchorage,0,0.0,0.0,0.0,Alaska,298695.0,"Anchorage, AK",398328.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cincinnati,0,0.0,0.0,0.0,Ohio,298537.0,"Cincinnati, OH-KY-IN",2256884.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,1.0,FC Cincinnati,1.0
+Santa Rosa,0,0.0,0.0,0.0,California,174989.0,"Santa Rosa-Petaluma, CA",499942.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fairfield,0,0.0,0.0,0.0,California,112972.0,"Vallejo-Fairfield, CA",447643.0,85000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Centennial,0,0.0,0.0,0.0,Colorado,109726.0,"Denver-Aurora-Lakewood, CO",2963821.0,100000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fremont,0,0.0,0.0,0.0,California,232191.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,130000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Elk Grove,0,0.0,0.0,0.0,California,166890.0,"Sacramento–Roseville–Arden-Arcade, CA",2397382.0,76706.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pompano Beach,0,0.0,0.0,0.0,Florida,107771.0,"Miami–Fort Lauderdale–West Palm Beach, FL",6166488.0,57278.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fargo,0,0.0,0.0,0.0,North Dakota,119250.0,"Fargo, ND-MN",248591.0,64406.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Maple Grove,0,0.0,0.0,0.0,Minnesota,68381.0,"Minneapolis–St. Paul–Bloomington, MN-WI",3690512.0,86000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Philadelphia,0,0.0,0.0,0.0,Pennsylvania,1567442.0,"Philadelphia–Camden–Wilmington, PA-NJ-DE-MD",6245051.0,68000.0,Philadelphia Eagles,Philadelphia Phillies,Philadelphia 76ers,Philadelphia Flyers,1.0,1.0,1.0,1.0,0.0,0,4.0
+Sioux City,0,0.0,0.0,0.0,Iowa,82776.0,"Sioux City, IA-NE-SD",169405.0,56000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fall River,0,0.0,0.0,0.0,Massachusetts,88770.0,"Providence–Warwick, RI-MA",1624578.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rockville,0,0.0,0.0,0.0,Maryland,66998.0,"Washington–Arlington–Alexandria, DC-VA-MD-WV",6385162.0,102000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tuscaloosa,0,0.0,0.0,0.0,Alabama,98338.0,Tuscaloosa Metropolitan Area,268000.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Palo Alto,0,0.0,0.0,0.0,California,66848.0,"San Francisco-Oakland-Berkeley, CA MSA",4749000.0,158271.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rochester Hills,0,0.0,0.0,0.0,Michigan,73432.0,"Detroit-Warren-Dearborn, MI MSA",4392000.0,93000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Francisco,0,0.0,0.0,0.0,California,864816.0,"San Francisco-Oakland-Berkeley, CA MSA",4749000.0,126187.0,"San Francisco 49ers (Santa Clara), Oakland Raiders (Oakland)","San Francisco Giants (San Francisco), Oakland Athletics (Oakland)",Golden State Warriors (Oakland),San Jose Sharks (San Jose),2.0,2.0,1.0,1.0,0.0,0,6.0
+Mission Viejo,0,0.0,0.0,0.0,California,97163.0,"Los Angeles-Long Beach-Anaheim, CA MSA",13200000.0,121299.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Ontario,0,0.0,0.0,0.0,California,171200.0,"Riverside-San Bernardino-Ontario, CA MSA",4650000.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lowell,0,0.0,0.0,0.0,Massachusetts,110720.0,"Boston-Cambridge-Newton, MA-NH MSA",4875000.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Palatine,0,0.0,0.0,0.0,Illinois,69269.0,"Chicago-Naperville-Elgin, IL-IN-WI MSA",9500000.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Goodyear,0,0.0,0.0,0.0,Arizona,79003.0,"Phoenix-Mesa-Chandler, AZ MSA",4850000.0,83000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Nampa,0,0.0,0.0,0.0,Idaho,89850.0,"Boise City, ID",764718.0,68373.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Louisville/Jefferson County metro government,0,0.0,0.0,0.0,Kentucky,615389.0,"Louisville/Jefferson County, KY-IN",1265108.0,57258.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Thousand Oaks,0,0.0,0.0,0.0,California,129329.0,"Oxnard–Thousand Oaks–Ventura, CA",846006.0,92236.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Tan Valley,0,0.0,0.0,0.0,Arizona,82797.0,"Phoenix–Mesa–Chandler, AZ",4948203.0,96857.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Toms River,0,0.0,0.0,0.0,New Jersey,87750.0,"New York–Newark–Jersey City, NY-NJ-PA",19768458.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bismarck,0,0.0,0.0,0.0,North Dakota,70240.0,"Bismarck, ND MSA",133626.0,64389.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lawton,0,0.0,0.0,0.0,Oklahoma,96659.0,"Lawton, OK MSA",130000.0,45792.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Rockford,0,0.0,0.0,0.0,Illinois,149346.0,"Rockford, IL MSA",339000.0,55667.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Redding,0,0.0,0.0,0.0,California,91579.0,"Redding, CA MSA",180000.0,56500.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Warren,0,0.0,0.0,0.0,Michigan,135356.0,"Detroit-Warren-Dearborn, MI MSA",4392000.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Auburn,0,0.0,0.0,0.0,Washington,76580.0,"Seattle-Tacoma-Bellevue, WA MSA",4000000.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Grand Prairie,0,0.0,0.0,0.0,Texas,187755.0,"Dallas-Fort Worth-Arlington, TX MSA",7637000.0,68000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Port Saint Lucie,0,0.0,0.0,0.0,Florida,179410.0,"Port St. Lucie, FL",536901.0,74928.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Miramar,0,0.0,0.0,0.0,Florida,137115.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,66560.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+West Jordan,0,0.0,0.0,0.0,Utah,111942.0,"Salt Lake City, UT",1257936.0,79953.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Evansville,0,0.0,0.0,0.0,Indiana,117679.0,"Evansville, IN-KY",315086.0,38758.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+The Woodlands,0,0.0,0.0,0.0,Texas,119144.0,"Houston-The Woodlands-Sugar Land, TX",7122240.0,122634.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Town 'n' Country,0,0.0,0.0,0.0,Florida,78996.0,"Tampa-St. Petersburg-Clearwater, FL",3175275.0,52212.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lewisville,0,0.0,0.0,0.0,Texas,104808.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,75593.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mount Pleasant,0,0.0,0.0,0.0,South Carolina,81309.0,"Charleston-North Charleston, SC",802122.0,103232.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Schaumburg,0,0.0,0.0,0.0,Illinois,75811.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,82386.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Marcos,0,0.0,0.0,0.0,California,92934.0,"San Diego-Carlsbad, CA",3338330.0,90492.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Las Cruces,0,0.0,0.0,0.0,New Mexico,101644.0,"Las Cruces, NM",225210.0,51013.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Salinas,0,0.0,0.0,0.0,California,157386.0,"Salinas, CA",433168.0,63387.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Yuba City,0,0.0,0.0,0.0,California,66944.0,"Yuba City, CA",175639.0,60937.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+El Monte,0,0.0,0.0,0.0,California,116745.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,44566.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Oshkosh,0,0.0,0.0,0.0,Wisconsin,66557.0,"Oshkosh-Neenah, WI",171907.0,56299.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Guaynabo,0,0.0,0.0,0.0,Puerto Rico,70492.0,"San Juan-Carolina-Caguas, PR",2448000.0,30000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fontana,0,0.0,0.0,0.0,California,207472.0,"Riverside-San Bernardino-Ontario, CA",4650631.0,75000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Walnut Creek,0,0.0,0.0,0.0,California,68906.0,"San Francisco-Oakland-Berkeley, CA",4731803.0,100000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Mount Vernon,0,0.0,0.0,0.0,New York,68621.0,"New York-Newark-Jersey City, NY-NJ-PA",19768458.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Phoenix,0,0.0,0.0,0.0,Arizona,1563001.0,"Phoenix-Mesa-Chandler, AZ",4948203.0,60000.0,"Arizona Cardinals (Glendale, AZ)",Arizona Diamondbacks,Phoenix Suns,"Arizona Coyotes (Glendale, AZ)",2.0,1.0,1.0,2.0,0.0,0,6.0
+Loveland,0,0.0,0.0,0.0,Colorado,75188.0,"Fort Collins, CO",370771.0,81898.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Gary,0,0.0,0.0,0.0,Indiana,77354.0,"Chicago-Naperville-Elgin, IL-IN-WI",9509934.0,31936.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Laguna Niguel,0,0.0,0.0,0.0,California,65812.0,"Los Angeles-Long Beach-Anaheim, CA",13200998.0,108537.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pueblo,0,0.0,0.0,0.0,Colorado,109419.0,"Pueblo, CO",168162.0,44252.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Miami Beach,0,0.0,0.0,0.0,Florida,92311.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,53685.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Austin,0,0.0,0.0,0.0,Texas,931840.0,"Austin-Round Rock-Georgetown, TX Metro Area",2283371.0,78000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Pawtucket,0,0.0,0.0,0.0,Rhode Island,71583.0,"Providence-Warwick, RI-MA",1624578.0,45000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Fort Worth,0,0.0,0.0,0.0,Texas,836969.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,64567.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lancaster,0,0.0,0.0,0.0,California,161113.0,"Los Angeles-Long Beach-Anaheim, CA",12799100.0,50000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hayward,0,0.0,0.0,0.0,California,158300.0,"San Francisco-Oakland-Hayward, CA",4731803.0,91100.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Federal Way,0,0.0,0.0,0.0,Washington,95188.0,"Seattle-Tacoma-Bellevue, WA",4018762.0,68313.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Caguas,0,0.0,0.0,0.0,Puerto Rico,77008.0,"San Juan-Carolina-Caguas, PR",2448292.0,20000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Hialeah,0,0.0,0.0,0.0,Florida,237082.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,40036.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Cheektowaga,0,0.0,0.0,0.0,New York,76075.0,"Buffalo-Cheektowaga, NY",1125637.0,52000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Ogden,0,0.0,0.0,0.0,Utah,85450.0,"Ogden-Clearfield, UT",683864.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Plymouth,0,0.0,0.0,0.0,Minnesota,75928.0,"Minneapolis-St. Paul-Bloomington, MN-WI",3690512.0,105000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Dale City,0,0.0,0.0,0.0,Virginia,71399.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6385162.0,80000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Ann Arbor,0,0.0,0.0,0.0,Michigan,117070.0,"Ann Arbor, MI",367601.0,65000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Bayamón,0,0.0,0.0,0.0,Puerto Rico,170259.0,"San Juan-Carolina-Caguas, PR",2448000.0,20000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Lakeland,0,0.0,0.0,0.0,Florida,104410.0,"Lakeland-Winter Haven, FL",724777.0,50136.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Roanoke,0,0.0,0.0,0.0,Virginia,99897.0,"Roanoke, VA",315251.0,53871.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Kent,0,0.0,0.0,0.0,Washington,126962.0,"Seattle-Tacoma-Bellevue, WA",4018762.0,77709.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Highlands Ranch,0,0.0,0.0,0.0,Colorado,102467.0,"Denver-Aurora-Lakewood, CO",2963821.0,132836.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Miami Gardens,0,0.0,0.0,0.0,Florida,113199.0,"Miami-Fort Lauderdale-Pompano Beach, FL",6166488.0,45348.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Los Angeles,0,0.0,0.0,0.0,California,3971896.0,"Los Angeles-Long Beach-Anaheim, CA",12799100.0,70372.0,Los Angeles Rams,"Los Angeles Dodgers, Los Angeles Angels (Anaheim, CA)","Los Angeles Lakers, Los Angeles Clippers","Los Angeles Kings, Anaheim Ducks (Anaheim, CA)",1.0,3.0,2.0,3.0,1.0,Los Angeles FC,10.0
+Duluth,0,0.0,0.0,0.0,Minnesota,86126.0,"Duluth, MN-WI",278799.0,55000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Downey,0,0.0,0.0,0.0,California,114211.0,"Los Angeles-Long Beach-Anaheim, CA Metro",13200998.0,68000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Irving,0,0.0,0.0,0.0,Texas,236617.0,"Dallas-Fort Worth-Arlington, TX",7637387.0,65999.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Waukesha,0,0.0,0.0,0.0,Wisconsin,71976.0,"Milwaukee-Waukesha, WI",1574731.0,68088.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+San Leandro,0,0.0,0.0,0.0,California,90711.0,"San Francisco-Oakland-Berkeley, CA",4749008.0,85748.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Harlingen,0,0.0,0.0,0.0,Texas,65769.0,"Brownsville-Harlingen, TX Metro Area",421017.0,38000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Tyler,0,0.0,0.0,0.0,Texas,103705.0,"Tyler, TX Metro Area",233479.0,54000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Perris,0,0.0,0.0,0.0,California,74959.0,"Riverside-San Bernardino-Ontario, CA Metro Area",4650631.0,60000.0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,0.0
+Chicago,0,0.0,0.0,0.0,Illinois,2664454.0,"Chicago-Naperville-Elgin, IL-IN-WI",9618502.0,74474.0,Chicago Bears,"Chicago Cubs, Chicago White Sox",Chicago Bulls,Chicago Blackhawks,1.0,2.0,1.0,1.0,0.0,0,5.0
